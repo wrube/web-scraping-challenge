@@ -18,5 +18,5 @@ You’re now ready to take on a full web-scraping and data analysis project. You
 - Part 2 Jupyter notebook: `part_2_mars_weather.ipynb`
   - Output from Part 2: `output/mars_dataset.csv`
 
-[!IMPORTANT]
-In Part 2 where we need to estimate how long it take for Mars to orbit the sun, I have created another column in the Mars data table to calculate the days since the beginning of the dataset. This is important because this dataset **doesn't** have data recorded on every day. For example, there is **no** data between dates  2012-08-23 and 2012-08-27. Therefore simply having a count of items along the x-axis of the line-plot is misleading and is not representative of  the dataset.
+>[!IMPORTANT]
+>In Part 2 where we need to estimate how long it take for Mars to orbit the sun, I have created another column in the Mars data table to calculate the days since the beginning of the dataset. This is important because this dataset **doesn't** have data recorded on every day. For example, there is **no** data between dates  2012-08-23 and 2012-08-27. Therefore simply having a count of items along the x-axis of the line-plot is misleading and is not representative of  the dataset.
